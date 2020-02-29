@@ -2,11 +2,15 @@
 All notable changes to this project will be documented in this file.
 
 ## 1.0.1
-- Command Name "Stats" --> "Bot"
-- Command "Ping", "MyLevel", "Horny", "HornyCheck", "Abuse" and "Gratitude" removed...
-- Design Changes
-  *Bot *Anime *Animesearch *User *List *Manga *Mangasearch *Source *Version *Booru
-- Package updates 
+-  -Command-
+- .stats --> bot 
+- .purge added
+- .design changes
+- .broken commands removed
+
+-  -Package-
+- .mongoose updated
+- .mal-scraper updated
 
 
 
