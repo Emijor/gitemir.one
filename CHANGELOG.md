@@ -1,6 +1,21 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
+## 1.0.4
+- Command User Update
+- Command Anime Update
+- Command Random Anime/Manga Update
+- Package Update
+- .discord.js 12.0.1
+- Many Bug Fixes
+
+
+## 1.0.3
+- Temp. Voice Channel Added!
+- Mongoose Package Updated
+- Sagiri Package Updated
+
+
 ## 1.0.2
 - Anime Sauce Feature added
 - Anti-Spam added
