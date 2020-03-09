@@ -1,6 +1,18 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
+## 1.0.5 |09.03.2020|
+- Code updates to discord.js v12
+- Booru.js Changes
+- Fixed errors with stat reporting APIs 
+- Removed API endpoint
+- Package Updates
+- .Booru
+- .dblapi.js
+- Package Removed
+- .discord-antispam
+
+
 ## 1.0.4
 - Command User Update
 - Command Anime Update
